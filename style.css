@@ -23,20 +23,24 @@ h3 {
 }
 
 .paragraph-one {
+  font-family: 'Cormorant Garamond', serif;
   font-size: 2rem;
 }
 
 .paragraph-two {
+  font-family: 'Cormorant Garamond', serif;
   font-size: 2rem;
 }
 
 .paragraph-three {
+  font-family: 'Cormorant Garamond', serif;
   font-size: 2rem;
   font-style: italic;
   letter-spacing: 8px;
 }
 
 .paragraph-four {
+  font-family: 'Cormorant Garamond', serif;
   font-size: 2rem;
   font-style: italic;
   letter-spacing: 8px;
